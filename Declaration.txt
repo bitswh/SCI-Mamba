@@ -1,0 +1,7 @@
+This code is the supporting code for the paper entitled “SCI-Mamba: Unsupervised Learning based Enhancement for the Low-light Images of Non-cooperative Spacecraft.”
+
+The ownership and intellectual property rights of this code belong to Beijing Institute of Technology. 
+
+The code is permitted for research purposes only; any commercial use requires prior authorization and permission from the authors. 
+
+Any questions during the use of this code, please contact Sun Yiyong or Shan Weihang via the following email addresses: sunyy@bit.edu.cn and bitswh@bit.edu.cn.
