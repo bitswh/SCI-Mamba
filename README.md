@@ -6,8 +6,8 @@ coming soon
 
 创建虚拟环境
 ```bash
-conda create -n scimamba python=3.8<br>
-
+conda create -n scimamba python=3.8
+<br>
 激活虚拟环境
 ```bash
 conda activate scimamba
