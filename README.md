@@ -7,5 +7,9 @@ coming soon
 创建虚拟环境
 ```bash
 conda create -n scimamba python=3.8
+```bash
 conda activate scimamba
+
+
+
 pip install -r requirements.txt
