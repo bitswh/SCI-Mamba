@@ -21,3 +21,8 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 ```bash
 pip install -r requirements.txt
 ```
+mamba_ssm库安装：访问https://github.com/state-spaces/mamba/releases
+找到mamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+```bash
+pip install mamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+```
