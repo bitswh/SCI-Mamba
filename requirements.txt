@@ -1,0 +1,10 @@
+numpy
+matplotlib
+thop
+opencv-python
+scipy
+Pillow
+yacs
+natsort
+scikit-image
+timm
