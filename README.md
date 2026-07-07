@@ -26,3 +26,10 @@ mamba_ssm库安装：访问https://github.com/state-spaces/mamba/releases
 ```bash
 pip install mamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```
+causal-conv1d库安装：访问https://github.com/Dao-AILab/causal-conv1d/releases
+找到causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+
+或者直接下载本项目中的该whl文件
+```bash
+pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+```
