@@ -44,3 +44,5 @@ We conduct comprehensive comparative experiments covering three mainstream algor
 ![SCI-Mamba Framework](imgs/comparsion1.png)
 ![SCI-Mamba Framework](imgs/Comparison_of_model_frame_rates.png)
 
+Besides,we adopt three authoritative no-reference image quality metrics without well-exposed orbital ground truth for perceptual evaluation: NIQE, BRISQUE and PIQE . Smaller metric values correspond to less image distortion and more natural visual characteristics.
+![SCI-Mamba Framework](imgs/comparsion2.png)
