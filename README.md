@@ -4,32 +4,32 @@ coming soon
 
 ## 🛠️Dependencies and Installation
 
-1.创建虚拟环境
+1.Create a virtual environment
 ```bash
 conda create -n scimamba python=3.8
 ```
 
-2.激活虚拟环境
+2.Activate the virtual environment
 ```bash
 conda activate scimamba
 ```
 
-3.配置环境
+3.Install the required dependencies
 ```bash
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
 ```bash
 pip install -r requirements.txt
 ```
-mamba_ssm库安装：访问https://github.com/state-spaces/mamba/releases
-找到mamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+Install mamba_ssm：visit the website：https://github.com/state-spaces/mamba/releases
+and find mamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```bash
 pip install mamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```
-causal-conv1d库安装：访问https://github.com/Dao-AILab/causal-conv1d/releases
-找到causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+Install causal-conv1d：visit the website：https://github.com/Dao-AILab/causal-conv1d/releases
+and find causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 
-或者直接下载本项目中的该whl文件
+Alternatively, you can directly download the .whl file included in this project.
 ```bash
 pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```
