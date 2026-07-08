@@ -37,6 +37,8 @@ pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_
 ## 📖Dataset Download
 Download Space Dark-1.0 Dataset：
 https://pan.baidu.com/s/17qVXFBpyhePKrPgPYJAw5g?pwd=x4q6 
+or
+https://drive.google.com/file/d/1EZrkjVuEY7ll1MzhZ_qJhwVE5_hybmIf/view?usp=sharing
  
 
 ## ⚠️Train&&Test
