@@ -39,5 +39,8 @@ Space Dark-1.0数据集下载链接：
 https://pan.baidu.com/s/1puGT31LRpHdTRoO9ZjKe2g?pwd=9ifr  
 
 ## 👌Main results
+We conduct comprehensive comparative experiments covering three mainstream algorithm families: CNN, Transformer and Mamba. The competing methods include SCI++, Zero-DCE++, RUAS, ECMamba, WalMaFa, LLFlow, Uformer, LLFormer, and UHDformer.
 
+![SCI-Mamba Framework](imgs/comparsion1.png)
 ![SCI-Mamba Framework](imgs/Comparison_of_model_frame_rates.png)
+
