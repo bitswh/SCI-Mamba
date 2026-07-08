@@ -4,17 +4,17 @@ coming soon
 
 ## 🛠️Dependencies and Installation
 
-创建虚拟环境
+1.创建虚拟环境
 ```bash
 conda create -n scimamba python=3.8
 ```
 
-激活虚拟环境
+2.激活虚拟环境
 ```bash
 conda activate scimamba
 ```
 
-配置环境
+3.配置环境
 ```bash
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
@@ -36,7 +36,8 @@ pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_
 
 ## 📖Dataset Download
 Download Space Dark-1.0 Dataset：
- https://pan.baidu.com/s/17qVXFBpyhePKrPgPYJAw5g?pwd=x4q6 
+https://pan.baidu.com/s/17qVXFBpyhePKrPgPYJAw5g?pwd=x4q6 
+ 
 
 ## ⚠️Train&&Test
 1.To download datasets training and testing data
@@ -60,3 +61,5 @@ We conduct comprehensive comparative experiments covering three mainstream algor
 
 Besides,we adopt three authoritative no-reference image quality metrics without well-exposed orbital ground truth for perceptual evaluation: NIQE, BRISQUE and PIQE . Smaller metric values correspond to less image distortion and more natural visual characteristics.
 ![SCI-Mamba Framework](imgs/comparsion2.png)
+
+You can download https://pan.baidu.com/s/1IFWVNG_MZQjhIQSPBdZzRw?pwd=e8yt to get these indexes。
