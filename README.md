@@ -54,6 +54,9 @@ python3 train.py
 python3 test.py
 ```
 Download our pre-trained weights:
+https://pan.baidu.com/s/1pcj2hMZYdIbo9bGwQ0mydQ?pwd=8byt or 
+https://drive.google.com/file/d/1FaHguu9sk5HPClPfeVvg_owqFkipnmFk/view?usp=sharing
+
 
 ## 👌Main results
 We conduct comprehensive comparative experiments covering three mainstream algorithm families: CNN, Transformer and Mamba. The competing methods include SCI++, Zero-DCE++, RUAS, ECMamba, WalMaFa, LLFlow, Uformer, LLFormer, and UHDformer.
