@@ -2,7 +2,7 @@
 
 coming soon
 
-## 🛠️环境配置
+## 🛠️Dependencies and Installation
 
 创建虚拟环境
 ```bash
@@ -34,7 +34,9 @@ causal-conv1d库安装：访问https://github.com/Dao-AILab/causal-conv1d/releas
 pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```
 
-## 📖数据集
+## 📖Dataset Download
 Space Dark-1.0数据集下载链接：
 https://pan.baidu.com/s/1puGT31LRpHdTRoO9ZjKe2g?pwd=9ifr  
+
+## 👌Main results
 
