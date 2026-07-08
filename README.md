@@ -40,3 +40,4 @@ https://pan.baidu.com/s/1puGT31LRpHdTRoO9ZjKe2g?pwd=9ifr
 
 ## 👌Main results
 
+![SCI-Mamba Framework](imgs/Comparison_of_model_frame_rates.png)
