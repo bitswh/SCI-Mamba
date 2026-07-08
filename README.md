@@ -59,7 +59,7 @@ https://drive.google.com/file/d/1FaHguu9sk5HPClPfeVvg_owqFkipnmFk/view?usp=shari
 
 
 ## 👌Main results
-We conduct comprehensive comparative experiments covering three mainstream algorithm families: CNN, Transformer and Mamba. The competing methods include SCI++, Zero-DCE++, RUAS, ECMamba, WalMaFa, LLFlow, Uformer, LLFormer, and UHDformer.
+We conduct comprehensive comparative experiments covering three mainstream algorithm families: CNN, Transformer and Mamba. The competing methods include SCI++, Zero-DCE++, RUAS, ECMamba, WalMaFa, LLFlow, Uformer, LLFormer, and UHDformer[UHDformer](https://github.com/supersupercong/UHDformer).
 
 ![SCI-Mamba Framework](imgs/comparsion1.png)
 ![SCI-Mamba Framework](imgs/Comparison_of_model_frame_rates.png)
