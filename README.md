@@ -38,6 +38,13 @@ pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_
 Space Dark-1.0数据集下载链接：
 https://pan.baidu.com/s/1puGT31LRpHdTRoO9ZjKe2g?pwd=9ifr  
 
+## ⚠️Train&&Test
+1.To download datasets training and testing data
+2.Change the training set path and epoches,run
+```bash
+python3 train.py
+```
+
 ## 👌Main results
 We conduct comprehensive comparative experiments covering three mainstream algorithm families: CNN, Transformer and Mamba. The competing methods include SCI++, Zero-DCE++, RUAS, ECMamba, WalMaFa, LLFlow, Uformer, LLFormer, and UHDformer.
 
