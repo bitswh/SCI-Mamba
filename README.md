@@ -34,7 +34,7 @@ Alternatively, you can directly download the .whl file included in this project.
 pip install causal_conv1d-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 ```
 
-## 📖Dataset Download
+## 📖Space Dark-1.0 Dataset Download
 Download Space Dark-1.0 Dataset：
 https://pan.baidu.com/s/17qVXFBpyhePKrPgPYJAw5g?pwd=x4q6 
 or
@@ -67,4 +67,4 @@ We conduct comprehensive comparative experiments covering three mainstream algor
 Besides,we adopt three authoritative no-reference image quality metrics without well-exposed orbital ground truth for perceptual evaluation: NIQE, BRISQUE and PIQE . Smaller metric values correspond to less image distortion and more natural visual characteristics.
 ![SCI-Mamba Framework](imgs/comparsion2.png)
 
-You can download https://pan.baidu.com/s/1IFWVNG_MZQjhIQSPBdZzRw?pwd=e8yt or https://drive.google.com/file/d/1uDnyMhtyXgB5vUBBpuQlhv6oH1UFiDS9/view?usp=sharing to get these indexes。
+You can download https://pan.baidu.com/s/1IFWVNG_MZQjhIQSPBdZzRw?pwd=e8yt or https://drive.google.com/file/d/1uDnyMhtyXgB5vUBBpuQlhv6oH1UFiDS9/view?usp=sharing to obtain these indexes and complete comprehensive comparative experiments。
