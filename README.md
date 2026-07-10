@@ -71,7 +71,7 @@ Besides,we adopt three authoritative no-reference image quality metrics without 
 
 You can download https://pan.baidu.com/s/1IFWVNG_MZQjhIQSPBdZzRw?pwd=e8yt or https://drive.google.com/file/d/1uDnyMhtyXgB5vUBBpuQlhv6oH1UFiDS9/view?usp=sharing to obtain these indexes and complete comprehensive comparative experiments。
 
-🎓 Citation
+## 🎓Citation
 Please cite our paper:
 ```bash
 @misc{sun2026scimamba,
