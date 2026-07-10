@@ -70,3 +70,16 @@ Besides,we adopt three authoritative no-reference image quality metrics without 
 ![SCI-Mamba Framework](imgs/comparsion2.png)
 
 You can download https://pan.baidu.com/s/1IFWVNG_MZQjhIQSPBdZzRw?pwd=e8yt or https://drive.google.com/file/d/1uDnyMhtyXgB5vUBBpuQlhv6oH1UFiDS9/view?usp=sharing to obtain these indexes and complete comprehensive comparative experiments。
+
+🎓 Citation
+Please cite our paper:
+```bash
+@misc{sun2026scimamba,
+      title={SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft},
+      author={Yiyong Sun and Weihang Shan and Shijun Wei and Diwei Zhou and Guang Zhai},
+      year={2026},
+      eprint={2607.08033},
+      doi={https://doi.org/10.48550/arXiv.2607.08033,
+      url={https://arxiv.org/abs/2607.08033},
+}
+```
