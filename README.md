@@ -1,6 +1,8 @@
 # SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft  [[Paper]](https://arxiv.org/abs/2607.08033)
 
-coming soon
+## 📢Introduction
+
+Low-light visual perception acts as the core visual foundation for on-orbit servicing missions targeting non-cooperative spacecraft, supporting autonomous rendezvous, pose estimation, component detection and robotic capture operations. Spaceborne imagery suffers from severe low-light degradation, while the extreme scarcity of paired normal/low-light space samples severely limits the generalization capacity of supervised enhancement algorithms. To address this practical bottleneck, this paper proposes SCI-Mamba, an unsupervised enhancement network for low-light orbital spacecraft observations. The proposed framework unites self-calibrated unsupervised learning, linear-complexity VMamba architecture and Retinex physical priors, delivering a lightweight enhancement pipeline adaptable to resource-limited spaceborne hardware. We construct Space Dark-1.0, a dedicated low-light spacecraft dataset integrating real orbital footage, darkroom hardware-in-the-loop measurements and physically constrained synthetic data covering diverse illumination, motion and attitude conditions. Comprehensive comparisons with CNN-, Transformer- and prevailing Mamba-based approaches verify the advantages of SCI-Mamba in visual authenticity, color fidelity and inference speed. The proposed framework provides a practical low-light enhancement solution for close-proximity non-cooperative space operations.
 
 ## 🛠️Dependencies and Installation
 
