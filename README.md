@@ -42,7 +42,7 @@ https://pan.baidu.com/s/17qVXFBpyhePKrPgPYJAw5g?pwd=x4q6
 or
 https://drive.google.com/file/d/1EZrkjVuEY7ll1MzhZ_qJhwVE5_hybmIf/view?usp=sharing
  
-
+You can also access our dataset via Hugging Face: [bitswh/SpaceDarkDatasetforSCIMamba · Datasets at Hugging Face.](https://huggingface.co/datasets/bitswh/SpaceDarkDatasetforSCIMamba)
 ## ⚠️Train&&Test
 1.To download datasets training and testing data
 
