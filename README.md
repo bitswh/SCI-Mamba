@@ -71,7 +71,9 @@ Besides,we adopt three authoritative no-reference image quality metrics without 
 
 ![SCI-Mamba Framework](imgs/comparsion2.png)
 
-You can download https://pan.baidu.com/s/1IFWVNG_MZQjhIQSPBdZzRw?pwd=e8yt or https://drive.google.com/file/d/1uDnyMhtyXgB5vUBBpuQlhv6oH1UFiDS9/view?usp=sharing to obtain these indexes and complete comprehensive comparative experiments。
+You can access https://huggingface.co/datasets/bitswh/SpaceDarkDatasetforSCIMamba to download the data acquisition scripts for conducting comparative experiments. Likewise, the relevant model weights corresponding to Chapters 4 and 5 of the appendix are also hosted here.
+
+
 
 ## 🎓Citation
 Please cite our paper if SCI-Mamba is useful to your research.:
