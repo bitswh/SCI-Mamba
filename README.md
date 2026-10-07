@@ -55,9 +55,7 @@ python3 train.py
 ```bash
 python3 test.py
 ```
-Download our pre-trained weights:
-https://pan.baidu.com/s/1pcj2hMZYdIbo9bGwQ0mydQ?pwd=8byt or 
-https://drive.google.com/file/d/1FaHguu9sk5HPClPfeVvg_owqFkipnmFk/view?usp=sharing
+The pretrained weight is located in the /weights folder.
 
 
 ## 👌Main results
