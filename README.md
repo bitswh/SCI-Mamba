@@ -67,7 +67,7 @@ We conduct comprehensive comparative experiments covering three mainstream algor
 
 ![SCI-Mamba Framework](imgs/Comparison_of_model_frame_rates.png)
 
-Besides,we adopt three authoritative no-reference image quality metrics without well-exposed orbital ground truth for perceptual evaluation: NIQE, BRISQUE and PIQE . Smaller metric values correspond to less image distortion and more natural visual characteristics.
+Since paired well-exposed reference images are unavailable for low-light orbital imagery, we adopt five no-reference image quality assessment metrics for perceptual evaluation: NIQE, BRISQUE, PIQE, ARNIQA, and MANIQA. Lower NIQE, BRISQUE, and PIQE scores indicate better image quality, whereas higher ARNIQA and MANIQA scores indicate better perceptual quality.
 
 ![SCI-Mamba Framework](imgs/comparsion2.png)
 
